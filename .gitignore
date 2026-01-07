@@ -1,0 +1,21 @@
+# uv
+.venv/
+uv.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data (Optional: ignore data if it gets large)
+# data/
+
+# Reference materials
+reference/
+
+# OS
+.DS_Store
+.vscode/
