@@ -6,7 +6,11 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "ipykernel>=7.1.0",
+    "matplotlib>=3.10.8",
     "numpy>=2.2.6",
     "pymycobot>=4.0.3",
     "pyserial>=3.5",
+    "pytest>=9.0.2",
+    "scikit-learn>=1.7.2",
+    "scipy>=1.15.3",
 ]
