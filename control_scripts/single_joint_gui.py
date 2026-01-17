@@ -51,7 +51,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-    def old_create_widgets(self):
+    def create_widgets(self):
         # Styles
         style = ttk.Style()
         style.configure("TLabel", font=("Helvetica", 12))

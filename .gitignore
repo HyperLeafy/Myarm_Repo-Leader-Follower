@@ -17,6 +17,7 @@ __pycache__/
 reference/
 result-pictures/
 data/
+docs/
 
 # OS
 .DS_Store
